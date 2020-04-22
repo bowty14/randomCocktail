@@ -1,0 +1,12 @@
+body{
+  background-image: url(https://bit.ly/3eFKyod);
+  background-repeat: none;
+  color:white;
+}
+.jumbotron{
+  background-color: #b7410e;
+  opacity: 80%;
+}
+h1{
+  text-align: center;
+}
