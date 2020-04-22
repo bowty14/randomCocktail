@@ -15,17 +15,16 @@ A random cocktail generator.
 | 1.Make an API call to The cocktailDB, to get information on cocktail mixes.
 | 2.Display information to the user.
 | 3.Add button that randomizes cocktail output to user.
-| 
-|  
-| 
-| 
-| 
+
+## Known Bugs
+* If a drink is generated that has the value null for measurment or ingredient the generator will only print the name of the cocktail. This however is an error when could not fix since the API we called does have some missing information on some of the drinks.
 
 
 ## Setup/Installation Requirements
 
 * Clone this repository
-* Open index.html in a web browser
+* Run npm install
+* run npm run start
 
 ## Technologies Used
 
@@ -34,6 +33,8 @@ A random cocktail generator.
 * Bootstrap 4.4.1
 * jQuery 3.4.1
 * JavaScript
+* Node
+* Webpack
 
 
 ### License
