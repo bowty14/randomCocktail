@@ -1,6 +1,6 @@
 # Cocktail Roulette
 
-#### JavaScript & jQuery Project for Epicodus, 04.21.2020
+#### JavaScript & jQuery Project for Epicodus, 04.22.2020
 
 #### By **Reid Ashwill & Tyler Bowerman**
 
