@@ -36,6 +36,8 @@ A random cocktail generator.
 * Node
 * Webpack
 
+_To view live:_
+* [Click here!](https://pensive-goldwasser-dd3f8d.netlify.app/)
 
 ### License
 
